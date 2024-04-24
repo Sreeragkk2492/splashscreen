@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962969812983",
+    "project_id": "mygsignin-f7f9c",
+    "storage_bucket": "mygsignin-f7f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962969812983:android:6632537d72d18bb2eb38f2",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzoXrzGuOtX9q4D5HaACgmPZQqd_qc98U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
